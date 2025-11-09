@@ -18,14 +18,14 @@ Key components include:
 
 ---
 
-Interface Screenshot:
+### Interface Screenshot:
 ![App Screenshot 1](screenshots/shot1.png)
 
 ## Features
 
-* Bias detection for short-form text
+* Bias detection for short-form News
 * Live headline fetch & real-time classification
-* Bias score visualization (gauge-based)
+* Bias score visualization
 * Model performance dashboard & metrics
 * Works offline (local inference) if needed
 
