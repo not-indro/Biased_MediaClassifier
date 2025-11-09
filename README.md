@@ -152,8 +152,6 @@ Kaggle. https://www.kaggle.com/datasets/timospinde/mbic-a-media-bias-annotation-
 
 MIT License. See `LICENSE` for details.
 
----
-
 ## Support
 
 If you find this project useful, please give it a ⭐ on GitHub!
